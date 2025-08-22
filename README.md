@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @StraycoderX
-- 👀 I’m interested in Python coding and backend
+- 👀 I’m interested in Python coding and C++
 - 🌱 I’m currently learning Python integration, apis, crud, database
 - 💞️ I’m looking to collaborate on some database project and some tasks.
 
