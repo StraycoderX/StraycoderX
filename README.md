@@ -1,31 +1,31 @@
 <!-- Cyberpunk Banner -->
 <p align="center">
-  <img src="https://rest.ishanoshada.com/svg/banner/hacker2/StraycoderX" alt="Cyberpunk hacker banner" />
+  <img src="https://rest.ishanoshada.com/svg/banner/hacker2/StraycoderX" alt="Cyberpunk hacker banner"/>
 </p>
 
-## 👋 ¡Hola! Soy **StraycoderX**
+## 👋 Hi! I'm **StraycoderX**
 
-Soy un entusiasta de la programación apasionado por **Python** y **C++**. Actualmente estoy explorando la integración de APIs, operaciones CRUD y bases de datos. Me encanta colaborar en proyectos y retos que requieran creatividad y buen diseño de software.
+I am a programming enthusiast passionate about **Python** and **C++**. I'm currently exploring API integration, CRUD operations, and databases. I love to collaborate on projects and challenges that require creativity and sound software design.
 
-### 🚀 Tecnologías y herramientas
+### 🚀 Technologies & Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,fastapi,flask,django,git,github,mysql,postgresql,linux" />
+
+  <img src="https://skillicons.dev/icons?i=python,cpp,fastapi,flask,django,git,github,mysql,postgresql,linux" alt="Tech stack icons"/>
 </div>
 
-### 📊 Estadísticas de GitHub
+### 📊 GitHub Statistics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StraycoderX&theme=outrun&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StraycoderX&layout=compact&theme=outrun&hide_border=true" alt="Top Languages"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=StraycoderX&theme=fire-n-ice&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://githubcard.com/StraycoderX.svg" alt="StraycoderX GitHub stats card"/>
 </div>
 
-### 📌 Proyectos destacados
-- **[Monetizacion](https://github.com/StraycoderX/Monetizacion)** – Servicio HTTP para conversión de divisas a partir de solicitudes POST.
-- **[Proyecto-crud-stray](https://github.com/StraycoderX/Proyecto-crud-stray)** – Servidor web básico que maneja solicitudes HTTP para interactuar con listas de empleados.
-- **[Tabla-de-usuarios](https://github.com/StraycoderX/Tabla-de-usuarios)** – Tabla dinámica de usuarios con funcionalidades CRUD.
-- **[Sistema-de-check-in_out-empleados-espa-a](https://github.com/StraycoderX/Sistema-de-check-in_out-empleados-espa-a)** – Sistema de fichaje y control de jornada.
+### 📌 Featured Projects
 
-### ✨ Gracias por visitar mi perfil
-¡Espero que disfrutes de mis proyectos y de mi contenido! Si tienes alguna sugerencia o propuesta para colaborar en algún proyecto, no dudes en abrir una issue o enviarme un mensaje.
+- **[Monetizacion](https://github.com/StraycoderX/Monetizacion)** – A simple HTTP service to perform currency conversion for POST requests.
+- **[Proyecto-crud-stray](https://github.com/StraycoderX/Proyecto-crud-stray)** – A basic web server that handles HTTP requests to interact with an employee list.
+
+- **[Tabla-de-usuarios](https://github.com/StraycoderX/Tabla-de-usuarios)** – A dynamic user table with full CRUD functionality.
+- **[Sistema-de-check-in_out-empleados-espa-a](https://github.com/StraycoderX/Sistema-de-check-in_out-empleados-espa-a)** – A time tracking system for employee check-in and check-out.
+
+### ✨ Thanks for visiting my profile
+
+I hope you enjoy my projects and content! If you have any suggestions or would like to collaborate on a project, feel free to open an issue or send me a message.
