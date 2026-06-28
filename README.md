@@ -63,16 +63,12 @@ software design with a security mindset. Open to collaboration: feel free to ope
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=StraycoderX&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=39d353&icon_color=39d353&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StraycoderX&layout=compact&hide_border=true&title_color=39d353&text_color=c9d1d9&bg_color=0d1117" alt="Top languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=StraycoderX&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=39d353&icon_color=39d353&text_color=c9d1d9&bg_color=0d1117&v=2" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StraycoderX&layout=compact&hide_border=true&title_color=39d353&text_color=c9d1d9&bg_color=0d1117&v=2" alt="Top languages"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=StraycoderX&hide_border=true&background=0d1117&stroke=39d353&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub streak"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=StraycoderX&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies"/>
+<img src="https://streak-stats.demolab.com?user=StraycoderX&hide_border=true&background=0d1117&stroke=39d353&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&v=2" alt="GitHub streak"/>
 
 </div>
 
